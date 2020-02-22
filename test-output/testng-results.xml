@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57930" started-at="2020-01-27T06:17:26Z" finished-at="2020-01-27T06:18:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57930" started-at="2020-01-27T06:17:26Z" finished-at="2020-01-27T06:18:24Z">
+      <class name="orangehrm.tests.OrangeHRMBatchTest">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:orangehrm.tests.OrangeHRMBatchTest@6e3c1e69]" name="launchApp" is-config="true" duration-ms="13793" started-at="2020-01-27T11:47:26Z" finished-at="2020-01-27T11:47:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="batchTest()[pri:0, instance:orangehrm.tests.OrangeHRMBatchTest@6e3c1e69]" name="batchTest" duration-ms="43408" started-at="2020-01-27T11:47:40Z" finished-at="2020-01-27T11:48:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- batchTest -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:orangehrm.tests.OrangeHRMBatchTest@6e3c1e69]" name="closeApp" is-config="true" duration-ms="706" started-at="2020-01-27T11:48:23Z" finished-at="2020-01-27T11:48:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- orangehrm.tests.OrangeHRMBatchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
